@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Volodymyr</h1>
-<h3 align="center">I am looking for my first job as Junior Front_end Developer</h3>
+
 
 <br>
 
